@@ -4,7 +4,7 @@ import UIKit
 
 var str = "Hello, playground"
 var str2 = "My Exercise #2  OF FUNC "
-
+var str3 = "Exercise - Pushing to Github"
 
 func add(apple1: Double, apple2: Double) -> Double { ///2
     return apple1 + apple2
